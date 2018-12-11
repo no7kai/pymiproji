@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8016292,
+          21.0187769
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "85 Nguyễn Khang, Yên Hoà",
+        "name": "Royal Karaoke"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8011692,
+          21.0196664
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "12 Nguyễn Khang, Yên Hoà",
+        "name": "Dragon Karaoke"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7868335,
+          21.0190346
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Tầng 2-4, 150 Nguyễn Chánh, Khu A10 Nam Trung Yên, Phường Yên Hoà",
+        "name": "Grand Vin de Bordeaux Wine House"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7980354,
+          21.0176709
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Vũ Phạm Hàm, Ngã Tư Trung Yên",
+        "name": "Hải Hói Beer Hall"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7917896,
+          21.0298027
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "",
+        "name": "Lân Beer Quán 2"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8005185,
+          21.0152939
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Số 3, Trung Yên 3, Trung Hoà",
+        "name": "Belgian Beer Club BBC"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.785323,
+          21.030436
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "5 Phố Duy Tân, Dịch Vọng Hậu",
+        "name": "Novotel Suites Hanoi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7831733,
+          21.0139468
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Mễ Trì",
+        "name": "Minh Châu Brewpup"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7787513,
+          21.0211029
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Mỹ Đình",
+        "name": "Karaoke Blue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7996215,
+          21.01086639999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "116 Trần Duy Hưng, Cầu Giấy",
+        "name": "Karaoke iSing"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7888465,
+          21.034172
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "39 Trần Thái Tông, Dịch Vọng Hậu",
+        "name": "Summit Karaoke"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7778303,
+          21.021783
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "so 10 pho Thien Hien Nam, Mỹ Đình",
+        "name": "Nam Dương Karaoke Club"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8057679,
+          21.0166246
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "98 Nguyễn Chí Thanh, Láng Thượng",
+        "name": "Cheers Beer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8074858,
+          21.02336339999999
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "54 Chùa Láng, Láng Thượng",
+        "name": "Moonlight Karaoke Club"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8017614,
+          21.0097771
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Trung Hoà",
+        "name": "Bar Phan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8082959,
+          21.0231612
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "8 Chùa Láng, Q.Đống Đa, TP.Hà Nội, Láng Thượng",
+        "name": "Dương Cầm Karaoke"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8011329,
+          21.0092622
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Phòng 2906, Lầu 29, Tòa Nhà 34 Tầng, Khu Đô Thị Trung - Hòa Nhân Chính, Quận Cầu Giấy, Trung Hoà",
+        "name": "Công Ty TNHH Future Generation"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7952688,
+          21.0367584
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Ngõ 86 Phố Chùa Hà, Quan Hoa",
+        "name": "Phoenix shisha"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.807325,
+          21.029171
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "637B Kim Mã, Ngọc Khánh",
+        "name": "ガールズバー & カラオケ ラウンジ • クラブ NEO • Japanese Bar & Lounge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.798372,
+          21.005927
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "B1 Mandarin Garden (Behind Grand Plaza hotel, next to Hanoi-Amsterdam School Hanoi City",
+        "name": "Paula’s Wines"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8041844,
+          21.0347115
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "1 Nguyễn Khánh Toàn, Quan Hoa",
+        "name": "Karaoke Las Vegas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8093704,
+          21.0156316
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "68 Nguyên Hồng, Láng Hạ",
+        "name": "Xích Beer Club"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8094291,
+          21.0156435
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "66 Nguyên Hồng, Láng Hạ",
+        "name": "SBB - Special Belgian Beer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8030927,
+          21.0362539
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "54 Nguyễn Khánh Toàn, Quan Hoa",
+        "name": "Son Cuoc Pub"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8030749,
+          21.0073895
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "24T2 Hoàng Đạo Thúy - Cầu Giấy - Hà Nội, Hoàng Đạo Thúy, Trung Hoà",
+        "name": "MyWay Beer & Cafe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7749205,
+          21.0292616
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "N01, Thôn Phú Mỹ, Xã Mỹ Đình, Huyện Từ Liêm, Mỹ Đình",
+        "name": "A99 Karaoke Nine Club"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8028191,
+          21.0187538
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "816 Đường Láng, Quận Đống Đa, Hà Nội, Láng Thượng",
+        "name": "Quán Bia Hơi Hà Nội"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7921265,
+          21.0215487
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Yên Hòa, Yên Hoà",
+        "name": "Karaoke Chip Bông"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7921063,
+          21.0218459
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "5 Yên Hòa, Yên Hoà",
+        "name": "Karaoke Nhất Long"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7914412,
+          21.0213852
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "202 Trung Kính, Yên Hoà",
+        "name": "Karaoke Kenz Club"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.791044,
+          21.022081
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Yên Hoà",
+        "name": "Bia hơi Tân Tóc Đỏ"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7886185,
+          21.0195572
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "",
+        "name": "가시나 노래방"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7887989,
+          21.0193024
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Yên Hoà, 베트남 Hanoi, 꺼우저이 14F Lô 10A Khu liền kề Nam Trung Yên, Nguyễn Chánh, Cầ Giấy, Hà nội",
+        "name": "크라운 노래방 (Crown Karaoke)"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7964889,
+          21.0211584
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "A1-7, Hạ Yên, Yên Hòa, Cầu Giấy",
+        "name": "Romanee wine shop"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7975094,
+          21.0216631
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "28, Ngõ 39 Dịch Vọng, Yên Hoà",
+        "name": "Karaoke Blue"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7947671,
+          21.0155965
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "132 Trung Kính, Yên Hoà",
+        "name": "Karaoke 182"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7949582,
+          21.0156234
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "82 Trung Kính, Yên Hoà",
+        "name": "Karaoke 82 Titan"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7996095,
+          21.0221501
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "72 Nguyễn Khang, Yên Hoà",
+        "name": "Karaoke 72"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7985969,
+          21.0257767
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "1150 Đường Láng, Láng Thượng",
+        "name": "Hallo beer"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.799804,
+          21.0194483
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "19 Vũ Phạm Hàm, Yên Hoà",
+        "name": "Lavender Karaoke KTV"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7986902,
+          21.0169282
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Yên Hoà",
+        "name": "Hero Karaoke"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8002425,
+          21.0197011
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "32, Vũ Phạm Hàm, Phường Yên Hòa, Quận Cầu Giấy, Thành Phố Hà Nội, Yên Hoà",
+        "name": "Cung Chon Karaoke Bar"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.800645,
+          21.022827
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "156 Chùa Láng",
+        "name": "Karaoke Night Star"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7913455,
+          21.029717
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Phố Thành Thái, Dịch Vọng",
+        "name": "Quán Bia Lương Dung"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8007173,
+          21.0199105
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "6 Trung Yên 1, Yên Hoà",
+        "name": "Karaoke Eva"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8007679,
+          21.0199834
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "4 Vũ Phạm Hàm, Yên Hoà",
+        "name": "Karaoke 361"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7969403,
+          21.0146294
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "26, Lô 1A, Khu Đô Thị Mới Trung Kiên, Đường Trung Kính, Phường Trung Hòa, Quận Cầu Giấy, Thành Phố Hà Nội, Trung Hoà",
+        "name": "Titan Club"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7845439,
+          21.0169232
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "Mễ Trì, Landmark 72 tower",
+        "name": "SECRET GARDEN Live Music & BAR"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7845391,
+          21.0169199
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "50 Phạm Hùng, Mễ Trì",
+        "name": "Secret Garden"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8011683,
+          21.0197308
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Address": "368 Nguyễn Khang, Yên Hoà",
+        "name": "Karaoke Smile Club"
+      }
+    }
+  ]
+}
